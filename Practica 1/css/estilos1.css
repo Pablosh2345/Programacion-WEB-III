@@ -1,0 +1,37 @@
+*{
+    background: aquamarine;
+}
+.Titulo{
+    text-align: center;
+    background-color: rgb(6, 254, 163);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20%;
+
+}
+.tit{
+    background-color: turquoise;
+}
+.parrafo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contenedor{
+    margin: 10px;
+    background: palegreen;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 2fr 2fr;
+}
+.caja{
+    margin: 10px;
+    background-color: olivedrab;
+    text-align: center;
+    border-radius: 10%;
+    padding: 10px;
+}
+.botton{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(35, 222, 2);
+    border-radius: 10%;
+}
