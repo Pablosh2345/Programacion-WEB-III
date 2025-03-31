@@ -1,0 +1,32 @@
+.container{
+    margin: 25px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.form{
+    border-style: groove;
+    padding: 5px;
+    margin: 10px;
+}
+.tabla{
+    text-align: center;
+    border: 2px;
+    border-style: dotted;
+    margin: 10px;
+    padding: 10px;
+}
+.headtabla{
+    background-color: midnightblue;
+    text-align: center;
+    margin: 10px;
+}
+.botton{
+    background-color: midnightblue;
+    color: white;
+}
+.cuadroid{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    border-style: dashed;
+}
